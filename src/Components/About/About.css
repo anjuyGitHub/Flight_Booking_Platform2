@@ -1,0 +1,9 @@
+.about{
+    background-image: url('../Assets/about.jpg');
+   font-size: 20px;
+   text-align: center;
+   box-sizing: border-box;
+}
+.fit{
+    height: 100vh;
+ }

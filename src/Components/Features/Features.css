@@ -1,0 +1,12 @@
+.flight_features{
+    background-image: url('../Assets/about.jpg');
+  
+   
+}
+.flight_features ul {
+    list-style-type: none;
+  }
+
+  .fit{
+   font-size: 29px;
+  }

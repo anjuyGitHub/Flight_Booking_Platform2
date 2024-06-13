@@ -1,0 +1,59 @@
+.details{
+    background-color: beige;
+    margin: auto;
+    margin-top: 50px;
+   width: 1150px;
+    height: fit-content;
+}
+
+.fill-form{
+    margin-left: 50px;
+    font-size: 15px;
+}
+
+.fill-form input{
+    width: 200px;
+    height: 30px;
+}
+
+.name{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    text-align: center;
+}
+
+.othersinfo{
+    display: flex;
+    flex-direction: row;
+    gap:20px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.line{
+    background-color: rgb(45, 219, 164);
+    border: 1px solid black;
+    height: 5px;
+    border: none;
+    margin-bottom: 20px;
+}
+
+button{
+    border: none;
+    padding: 10px;
+    background-color: rgb(12, 101, 72);
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+}
+
+.passenger-number{
+    background-color: aquamarine;
+    font-size: 20px;
+    font-weight: 500;
+    text-align: center;
+}

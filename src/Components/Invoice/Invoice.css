@@ -1,0 +1,36 @@
+.pay-invoice{
+    background-color: rgb(220, 220, 231);
+    height:600px;
+    width: 1000px;
+    margin: auto;
+}
+
+.pay-invoice p{
+    font-size: 20px;
+    color: black;
+    font-weight: 300;
+
+} 
+.card-number{
+    margin-left: 50px;
+}
+
+.card-details{
+    margin-left: 50px;
+}
+
+.amount{
+    margin-left: 50px;
+}
+
+/* .pay-invoice p{
+    margin-top: 30px;
+} */
+
+.pay-invoice input{
+    margin-bottom: 20px;
+}
+
+.card-details p{
+    margin-top: 10px;
+}
